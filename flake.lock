@@ -5,11 +5,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1762330891,
-        "narHash": "sha256-XiDk0UwlJ2ChBRM5TUdX8HY1tNv1rV7Oxvhyamsc4w0=",
+        "lastModified": 1762331263,
+        "narHash": "sha256-kU7AQ/ekkA5O+Z046iDau44B0fM9k+24yrtQ2d/y26U=",
         "owner": "indynet",
         "repo": "mark",
-        "rev": "336cd3b977dbb49184e44359d57d3140102ff200",
+        "rev": "85d26ec1c1eebe1e1a34fa8c06a53ea1f8147b17",
         "type": "github"
       },
       "original": {
