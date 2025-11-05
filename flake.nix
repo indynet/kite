@@ -6,5 +6,5 @@
     mark.url = "github:indynet/mark";
   };
 
-  outputs     = { self, page, mark, ... }: { write = m: r: (m r).write; } // mark.html // mark.monad // mark // page;
+  outputs     = { self, page, mark, ... }: { write = m: r: (m r).write; } // mark.basic // mark.monad // mark // page;
 }
